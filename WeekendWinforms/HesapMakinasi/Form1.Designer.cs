@@ -86,6 +86,7 @@
             this.Panel.Name = "Panel";
             this.Panel.Size = new System.Drawing.Size(828, 1114);
             this.Panel.TabIndex = 0;
+            this.Panel.Paint += new System.Windows.Forms.PaintEventHandler(this.Panel_Paint);
             // 
             // textBox1
             // 
@@ -114,9 +115,10 @@
             this.txtEkran.Name = "txtEkran";
             this.txtEkran.ReadOnly = true;
             this.txtEkran.Size = new System.Drawing.Size(817, 136);
-            this.txtEkran.TabIndex = 1;
+            this.txtEkran.TabIndex = 0;
             this.txtEkran.Text = "0";
             this.txtEkran.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtEkran.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtEkran_KeyPress);
             // 
             // txtIslem
             // 
@@ -145,6 +147,8 @@
             this.btnCE.TabIndex = 0;
             this.btnCE.Text = "CE";
             this.btnCE.UseVisualStyleBackColor = false;
+            this.btnCE.Click += new System.EventHandler(this.btnCE_Click);
+            this.btnCE.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.btnCE_KeyPress);
             // 
             // btnC
             // 
@@ -158,6 +162,7 @@
             this.btnC.TabIndex = 1;
             this.btnC.Text = "C";
             this.btnC.UseVisualStyleBackColor = false;
+            this.btnC.Click += new System.EventHandler(this.btnC_Click);
             // 
             // btnSil
             // 
@@ -171,6 +176,7 @@
             this.btnSil.TabIndex = 2;
             this.btnSil.Text = "";
             this.btnSil.UseVisualStyleBackColor = false;
+            this.btnSil.Click += new System.EventHandler(this.btnSil_Click);
             // 
             // btnBolme
             // 
@@ -366,6 +372,7 @@
             this.btnArtiEksi.TabIndex = 16;
             this.btnArtiEksi.Text = "+/-";
             this.btnArtiEksi.UseVisualStyleBackColor = false;
+            this.btnArtiEksi.Click += new System.EventHandler(this.btnArtiEksi_Click);
             // 
             // btn0
             // 
@@ -393,6 +400,7 @@
             this.btnVirgul.TabIndex = 18;
             this.btnVirgul.Text = ",";
             this.btnVirgul.UseVisualStyleBackColor = false;
+            this.btnVirgul.Click += new System.EventHandler(this.btnVirgul_Click);
             // 
             // btnEsittir
             // 
@@ -406,6 +414,7 @@
             this.btnEsittir.TabIndex = 19;
             this.btnEsittir.Text = "=";
             this.btnEsittir.UseVisualStyleBackColor = false;
+            this.btnEsittir.Click += new System.EventHandler(this.btnEsittir_Click);
             // 
             // frmHesapMAk
             // 
@@ -417,7 +426,10 @@
             this.MinimumSize = new System.Drawing.Size(860, 1202);
             this.Name = "frmHesapMAk";
             this.Text = "Vedat Hesap Makinası";
+            this.Activated += new System.EventHandler(this.frmHesapMAk_Activated);
             this.Load += new System.EventHandler(this.frmHesapMAk_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.frmHesapMAk_KeyDown);
+            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.frmHesapMAk_KeyPress);
             this.Panel.ResumeLayout(false);
             this.Panel.PerformLayout();
             this.ResumeLayout(false);
