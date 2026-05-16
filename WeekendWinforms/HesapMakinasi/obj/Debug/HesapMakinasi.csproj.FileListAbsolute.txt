@@ -1,0 +1,11 @@
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WeekendWinforms\HesapMakinasi\bin\Debug\HesapMakinasi.exe.config
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WeekendWinforms\HesapMakinasi\bin\Debug\HesapMakinasi.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WeekendWinforms\HesapMakinasi\bin\Debug\HesapMakinasi.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WeekendWinforms\HesapMakinasi\obj\Debug\HesapMakinasi.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WeekendWinforms\HesapMakinasi\obj\Debug\HesapMakinasi.frmHesapMAk.resources
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WeekendWinforms\HesapMakinasi\obj\Debug\HesapMakinasi.Properties.Resources.resources
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WeekendWinforms\HesapMakinasi\obj\Debug\HesapMakinasi.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WeekendWinforms\HesapMakinasi\obj\Debug\HesapMakinasi.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WeekendWinforms\HesapMakinasi\obj\Debug\HesapMakinasi.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WeekendWinforms\HesapMakinasi\obj\Debug\HesapMakinasi.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WeekendWinforms\HesapMakinasi\obj\Debug\HesapMakinasi.exe.config
