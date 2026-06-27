@@ -1,0 +1,12 @@
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WinFormsADO\WinFormsADO\bin\Debug\WinFormsADO.exe.config
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WinFormsADO\WinFormsADO\bin\Debug\WinFormsADO.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WinFormsADO\WinFormsADO\bin\Debug\WinFormsADO.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WinFormsADO\WinFormsADO\obj\Debug\WinFormsADO.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WinFormsADO\WinFormsADO\obj\Debug\WinFormsADO.Form1.resources
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WinFormsADO\WinFormsADO\obj\Debug\WinFormsADO.Properties.Resources.resources
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WinFormsADO\WinFormsADO\obj\Debug\WinFormsADO.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WinFormsADO\WinFormsADO\obj\Debug\WinFormsADO.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WinFormsADO\WinFormsADO\obj\Debug\WinFormsADO.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WinFormsADO\WinFormsADO\obj\Debug\WinFormsADO.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WinFormsADO\WinFormsADO\obj\Debug\WinFormsADO.exe.config
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\WinForms\WinFormsADO\WinFormsADO\obj\Debug\WinFormsADO.Form2.resources
